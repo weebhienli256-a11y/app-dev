@@ -1,4 +1,4 @@
 # app-dev
 My first repository
-## H2 ** My Favorite Series/Movie **
-is == Adventure Time ==
+## My Favorite Series/Movie
+   == Adventure Time == is one of my best **series**
